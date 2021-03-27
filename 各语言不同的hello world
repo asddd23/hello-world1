@@ -1,0 +1,9 @@
+c语言版本
+#include<stdio.h>
+int main()
+{
+   printf("hello world");
+   return 0;
+   }
+ java 版本
+ 
